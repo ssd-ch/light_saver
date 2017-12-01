@@ -1,4 +1,4 @@
-#!mruby
+#!mruby main
 
 serial = Serial.new(0)
 serial.println "Hello, mruby."
